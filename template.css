@@ -6,20 +6,19 @@
 width: 515px;
 height: 35px;
 box-sizing: border-box;
-border-top: 1px solid #000;
-border-left: 1px solid #000;
-border-right: 1px solid #000;
+border-top: 1px solid #fff;
+border-left: 1px solid #fff;
+border-right: 1px solid #ffff;
 }
 
 .linha02 {
 width: 515px;
 height: 35px;
 box-sizing: border-box;
-border-bottom: 1px solid #000;
-border-left: 1px solid #000;
-border-right: 1px solid #000;
+border-bottom: 1px solid #fff;
+border-left: 1px solid #fff;
+border-right: 1px solid #fff;
 }
-
 
 .texto {
 width: 450px;
