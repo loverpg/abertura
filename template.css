@@ -1,0 +1,32 @@
+.geral {
+  background: #fff; 
+  padding: 35px;
+}
+
+.linha01 {
+width: 515px;
+height: 35px;
+box-sizing: border-box;
+border-top: 1px solid #000;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+}
+
+.linha02 {
+width: 515px;
+height: 35px;
+box-sizing: border-box;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+}
+
+
+.text {
+width: 450px;
+font: 15px/20px Tahoma;
+text-transform: inherit;
+color: #000;
+text-align: justify;
+white-space: pre-line;
+}
